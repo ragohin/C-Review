@@ -1,0 +1,3 @@
+﻿  linear_search.cpp
+c:\users\ragoh\onedrive\documents\coding\cppreview\search algorithms\linear search\linear_search.cpp(20): warning C4715: 'linearSearch': not all control paths return a value
+  Linear Search.vcxproj -> C:\Users\ragoh\OneDrive\Documents\Coding\CPPReview\Search Algorithms\Linear Search\Debug\Linear Search.exe
