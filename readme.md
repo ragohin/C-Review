@@ -1,0 +1,1 @@
+This code serves as a review of C++ for me.
